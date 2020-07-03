@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Shipping"],{"426d":function(n,e,t){"use strict";t.r(e);var i=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("p",[n._v(n._s(n.shipping))])])},p=[],c=t("5530"),u=t("2f62"),a={data:function(){return{name:"Shipping"}},computed:Object(c["a"])({},Object(u["b"])(["shipping"]))},s=a,r=t("2877"),l=Object(r["a"])(s,i,p,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=Shipping.6b3186c6.js.map
